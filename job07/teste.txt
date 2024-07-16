@@ -1,0 +1,36 @@
+<?php
+$hauteur = 5; // Vous pouvez changer la hauteur du triangle ici
+
+for ($i = 1; $i <= $hauteur; $i++) {
+    
+   
+// Espaces pour aligner les étoiles au centre
+    for ($j = $hauteur; $j > $i; $j--) {
+        
+       
+echo "&nbsp;"; // Utilisation de &nbsp; pour les espaces en HTML
+    }
+    
+    }
+// Étoiles
+    
+   
+for ($k = 1; $k <= (2 * $i - 1); $k++) {
+        
+        e
+
+echo "*";
+    }
+    
+    }
+    ec
+
+    }
+   
+echo "<br>"; // Nouvelle ligne après chaque rangée
+}
+?>
+
+
+___________________________
+

@@ -1,0 +1,45 @@
+ if($i = 26; $nombreoff)  
+
+else{
+                    echo $i . "<br>";
+                }
+
+$nombreoff = false
+
+. $i == 37. $i == 88. $i ==1111
+
+if ( $i > 1337) 
+                 echo $texte;
+
+if( $i == 42){
+                    echo $laplateforme;
+                }
+
+//elseif ($i == 25 || $i == 50 ){
+                //echo "<u>$i<u/><br/>";
+           // }
+
+_____________________________
+
+$texte = "La Plateforme ";
+
+    for ( $i = 0 ; $i <= 100; $i ++ ){
+        
+
+        if ($i <= 20){
+            echo "<i>". $i."<i/><br/>";
+        }
+
+        elseif ($i >= 25 && $i <= 50 ){
+            echo "<u>".$i."<u/><br/>";
+        }
+
+        elseif( $i == 42){
+            echo $texte. "<br/>";
+        }
+
+        else {
+            echo $i. "<br/>";
+        }
+
+    }
